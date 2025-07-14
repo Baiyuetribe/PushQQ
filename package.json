@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "dev": "gowatch",
+        "release_win": "EXE_NAME=push_qq && CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build -o $EXE_NAME && upx ./$EXE_NAME && ls -lh $EXE_NAME # windows生产构建",
+        "release": "EXE_NAME=push_qq && CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -o $EXE_NAME && upx ./$EXE_NAME && ls -lh $EXE_NAME # linux生产构建"
+    }
+}
