@@ -22,7 +22,7 @@ PUSH_QQ 是一个基于 Go 语言开发的 QQ 消息推送 API 服务，允许�
 
 - Linux/Mac/Windows/Andriod
 - 可个人电脑部署，也可以放在服务器或挂机宝等运行
-- [主程序，参见项目 release](https://github.com/Baiyuetribe/PushQQ/release)
+- [主程序，参见项目 release](https://github.com/Baiyuetribe/PushQQ/releases/tag/release)
 
 ### 首次登录
 

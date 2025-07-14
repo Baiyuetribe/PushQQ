@@ -7,3 +7,5 @@ qq_bot
 *.png
 push_qq
 *.exe
+*.zip
+.DS_Store
