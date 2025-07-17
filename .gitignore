@@ -5,6 +5,7 @@ qq_bot
 *.png
 .md
 *.png
+!demo.png
 push_qq
 *.exe
 *.zip

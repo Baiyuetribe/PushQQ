@@ -1,8 +1,14 @@
-# PUSH_QQ 项目说明文档
+# PUSH_QQ - 通过 API 调用实现 QQ 消息推送
 
 ## 项目简介
 
 PUSH_QQ 是一个基于 Go 语言开发的 QQ 消息推送 API 服务，允许通过 HTTP API 接口向 QQ 好友或群聊发送消息。该项目使用 LagrangeGo 库实现 QQ 协议，提供简单易用的 RESTful API 接口。
+
+## 效果演示
+
+<div align="center">
+  <img src="demo.png" alt="效果演示" />
+</div>
 
 ## 功能特性
 
